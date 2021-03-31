@@ -1,0 +1,74 @@
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 10%;
+    height:200px;
+    align-self: center;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px purple;
+    font-size: 20px;
+    text-align: center;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: #6A1B9A;
+
+
+}
+
+h2 {
+    font-size: 20px;
+    color: #1A237E;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.menu {
+    list-style: none;
+    text-align: center;
+    top:30px;
+    right:10px;
+    z-index: 10;
+    cursor: pointer;
+    float: right;
+    color:black;
+}
+
+#name {
+    font-family: 'Cinzel Decorative', cursive
+}
+.links
+{
+    float:left;
+    color: rebeccapurple;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+.links:hover
+{
+    background-color: aqua;
+}
